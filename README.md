@@ -4,7 +4,7 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotmaker619&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius0505&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
 
 # Welcome to my profile. <img src="https://user-images.githubusercontent.com/81764479/139946842-981c8dad-0756-45e4-94e3-cecf05ef5406.gif" data-w="400" data-h="400" data-xblocker="passed" style="visibility: visible; width: 40px; height: 40px; margin: 0px;">
 
@@ -60,4 +60,4 @@
 - 😇 <b>Ever ready!!!</b> 
 </p>
 
-<img alt="dotmaker619's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dotmaker619&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="julius0505's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=julius0505&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
