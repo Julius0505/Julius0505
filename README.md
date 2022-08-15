@@ -55,7 +55,7 @@
 - 🔭 I'm <b>a specialist</b> in React.js/Vue.js/Node.js/Laravel etc.
 - 🌱 Also, have good hands in <b>Blockchain related technologies</b> like Solidity/Ethereum/Truffle/Web3.js/Ethereum.
 - 🤔 I’m looking for a <b>new challenge</b> and <b>position</b>.
-- 📫 <b>How to reach me</b>: julius9605@gmail.com  <b>Skype:</b> live:.cid.b9ac18ae9da3d166
+- 📫 <b>How to reach me</b>: julius9605@gmail.com  
 - ⚡ <b>Fun fact</b>: Always <b>passionate to work</b>, <b>learn</b> new technologies, and <b>love to share</b> experiences with others.
 - 😇 <b>Ever ready!!!</b> 
 </p>
