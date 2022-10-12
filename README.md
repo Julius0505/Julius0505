@@ -41,7 +41,6 @@
 </p>
 
 <br />
-<img align="left" src="https://user-images.githubusercontent.com/81764479/139954958-595035b3-7f4b-4bf2-a263-43d7b82cfdca.gif" alt="beautiful-github-profile-hi-with-handshake"/>
 <p align="right">
  
 - 🔭 I'm <b>a specialist</b> in React.js/Vue.js/Node.js/Spring Boot/Laravel etc.
